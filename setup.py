@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
 	name = 'PyModuleTest',
-	packages = ['PyModuleTest'],
+	packages = ['pymoduletest'],
 	scripts = ['runner'],
 	version = '0.0.0.1',
 	description = 'My first project',
